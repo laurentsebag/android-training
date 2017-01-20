@@ -1,1 +1,1 @@
-include ':search', ':onboarding'
+include ':search', ':onboarding', ':algorithm'
